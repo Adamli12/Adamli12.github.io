@@ -8,6 +8,11 @@
 - Part of the curriculum:   
 Introduction to Deep Learning, Data Structures, Algorithm Design, Machine learning, Fundamental Pattern Recognition, Probability and Statistics, Statistical Inference.
 
+## Research Interest
+- Data Mining
+- Computer Vision
+- User-Centered Multimedia Computing
+
 ## Professional Skills	
 - Programming: C++, R, Python, Java
 - Software and Framework: Origin, Mathematica, Matlab, LaTeX, Pytorch, Tensorflow
