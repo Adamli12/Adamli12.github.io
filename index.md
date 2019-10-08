@@ -12,4 +12,4 @@ Introduction to Deep Learning, Data Structures, Algorithm Design, Machine learni
 - Programming: C++, R, Python, Java
 - Software and Framework: Origin, Mathematica, Matlab, LaTeX, Pytorch, Tensorflow
 
-[CV](adamli12.github.io/3_Hanyu Li- CV.doc)
+[CV](3_Hanyu Li- CV.doc)
