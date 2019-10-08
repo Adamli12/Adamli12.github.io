@@ -1,4 +1,5 @@
 # Hanyu Li
+![photo](photo.jpg)
 
 ## Personal Imformation
 - Email: l-hy12@outlook.com
