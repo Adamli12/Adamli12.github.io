@@ -1,5 +1,5 @@
 # Hanyu Li
-![photo](photo.jpg)
+<img src="photo.jpg" width="200" alt="photo">
 
 ## Personal Imformation
 - Email: l-hy12@outlook.com
