@@ -4,18 +4,15 @@
 ## Personal Imformation
 - Email: l-hy12@outlook.com
 - Tel: +86-18810137007
-- Education: Tsinghua University, 4<sup>th</sup> year undergraduate
-- Part of the curriculum:   
-Introduction to Deep Learning, Data Structures, Algorithm Design, Machine learning, Fundamental Pattern Recognition, Probability and Statistics, Statistical Inference.
+- Education: Tsinghua University, 4<sup>th</sup> year Phd. candidate
 
 ## Research Interest
-- Data Mining
-- Computer Vision
-- User-Centered Multimedia Computing
+- Artificial Intelligence & Machine Learning
+- Recommendation System & User Profiling
 
 ## Professional Skills	
 - Programming: C++, R, Python, Java
-- Software and Framework: Origin, Mathematica, Matlab, LaTeX, Pytorch, Tensorflow
+- Software and Framework: Pytorch, Tensorflow, Django
+- English Certificates: Toefl 109, GRE 329
 
-[CV](3_Hanyu Li- CV.doc)  
-[M-protein summer intern project repository](https://github.com/Adamli12/M-protein)
+[CV](CV.pdf)  
