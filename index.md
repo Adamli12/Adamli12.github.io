@@ -28,4 +28,4 @@
 
 
 ## CV
-[CV](CV.pdf)  
+### [**CV.pdf**](CV.pdf)  
