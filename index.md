@@ -20,7 +20,7 @@
 
 * [**Google Scholar** Profile](https://scholar.google.com.sg/citations?hl=zh-CN&user=zU2tUYoAAAAJ)
 
-* [**ORCID**](https://orcid.org/my-orcid?orcid=0009-0003-7025-0304): 0009-0003-7025-0304
+* [**ORCID**](https://orcid.org/0009-0003-7025-0304): 0009-0003-7025-0304
 
 * [**ACM Author** Profile](https://dl.acm.org/profile/99661276398)
 
