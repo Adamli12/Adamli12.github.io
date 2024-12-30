@@ -24,7 +24,7 @@
 
 * [**ACM Author** Profile](https://dl.acm.org/profile/99661276398)
 
-* [**LinkedIn** Profile]()
+* [**LinkedIn** Profile](www.linkedin.com/in/hanyuli12)
 
 
 ## CV
